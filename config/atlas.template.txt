@@ -1,0 +1,2 @@
+# MongoDB Atlas connection template
+MONGODB_ATLAS_URI=mongodb+srv://imdeepchanddewangan:u6Sg8oR5pwaAdJui@110.227.63.102/<dbname>?retryWrites=true&w=majority
